@@ -1,0 +1,12 @@
+1.Các khái niệm cơ bản về các thành phần trong reactJS
+    --reactJS BASIC 
+        --Review ES6
+        --Các thành phần cơ bản trong reactJS
+        --Mini Project (student management)
+    --Redux
+        --Các khái niệm cơ bản, các thành phần
+        -- Mini Project (shoping cart)
+    -- Hook
+        -- Mini Project (todo app)
+    -- API 
+        -- Local Api / Mock Api (mock Api.io)
