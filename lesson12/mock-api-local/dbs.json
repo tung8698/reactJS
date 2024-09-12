@@ -1,0 +1,35 @@
+{
+    "users":[
+        {
+            "fullname": "Tom Cruise",
+            "age" : 50,
+            "gender": true
+        },
+        {
+            "fullname": "Tom Hanks",
+            "age" : 60,
+            "gender": true
+        },
+        {
+            "fullname": "Lisa Lin",
+            "age" : 30,
+            "gender": false
+        }
+    ],
+
+    "student":[
+        {
+            "studentId": "SV001",
+            "studentName": "Tom Cruise"
+        },
+        {
+            "studentId": "SV002",
+            "studentName": "Tom Hanks"
+        },
+        {
+            "studentId": "SV003",
+            "studentName": "Lisa Lin"
+        }
+    ]
+    
+}
